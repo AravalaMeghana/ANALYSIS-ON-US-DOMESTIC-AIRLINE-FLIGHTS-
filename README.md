@@ -1,5 +1,9 @@
 # ANALYSIS-ON-US-DOMESTIC-AIRLINE-FLIGHTS-
 
+For better understanding I’ve provided the link for my tableau workbook in which you can have a look at my findings.
+TABLEAU WORKBOOK LINK : https://prod-useast- b.online.tableau.com/#/site/msis670fall2023/workbooks/1037771
+
+
 Here are the findings derived from a comprehensive analysis of U.S. domestic airline flights spanning December 2010 to January 2011. This analysis aimed to provide valuable insights into various aspects of airline operations, performance metrics, and potential areas for strategic enhancement.
 
 Objectives and Questions Explored in our analysis revolved around addressing pivotal questions within the industry, such as:
